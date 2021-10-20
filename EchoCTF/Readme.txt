@@ -1,5 +1,5 @@
 #ENGLISH
-There are some machines of Echoctf.red
+There are some machines of echoctf.red
 
 #ESPAÑOL
-Aquí hay unas maquinas de Echoctf.red
+Aquí hay unas maquinas de echoctf.red
