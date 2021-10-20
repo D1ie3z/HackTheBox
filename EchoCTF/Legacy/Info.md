@@ -6,7 +6,7 @@ Needless to say these are old, just like one of the multiple ways you can gain a
 Escalation needs no actual programming experience, but you have to know how a unix system tries to find the commands you run.
 Try not to get to hurt the target too much, you dont want to make its bleed its heart out.
 -----------------------------------------------------------------------------------------------------------------------------
-[+]Lets try to get it.[+]
+[+]Lets try to get it. And make the writeup[+]
 
 #ESPAÑOL
 Tenemos esta maquina/objetivo y la descripción es:
@@ -16,4 +16,4 @@ No hace falta decir que estos son antiguos, al igual que una de las múltiples f
 La escalada no necesita experiencia real en programación, pero debes saber cómo un sistema Unix intenta encontrar los comandos que ejecutas.
 Intenta no herir demasiado al objetivo, no querrás que se desangre.
 -----------------------------------------------------------------------------------------------------------------------------
-[+]Intentemos obtenerla[+]
+[+]Intentemos obtenerla. Y crear el writeup[+]
