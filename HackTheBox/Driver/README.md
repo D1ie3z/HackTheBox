@@ -1,5 +1,5 @@
 # ENGLISH
-This is a machine OS windows.
+This is a machine with windows OS.
 # ESPAÑOL
 Está es una maquina con sistema operativo windows.
 
