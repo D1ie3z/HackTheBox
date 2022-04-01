@@ -5,7 +5,6 @@ SQLI -> RCE (INTO OUTFILE)
 Information Leakage.
 # ESPAÑOL
 Maquina con:
-Machine with:
 SQLI (Error Based)
 SQLI -> RCE (INTO OUTFILE)
 Information Leakage.
