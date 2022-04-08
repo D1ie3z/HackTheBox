@@ -1,4 +1,5 @@
 # ENGLISH
+Machine with:
 DNS Enumeration (dnsenum)
 SQUID Proxy
 WPAD Enumeration
