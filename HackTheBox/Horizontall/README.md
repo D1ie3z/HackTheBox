@@ -11,4 +11,4 @@ Port Forwarding
 Strapi CMS Exploitation
 Laravel Exploitation
 <br/>
-<a href="#"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FO6Nj8vl6f6KeA%2Fgiphy.gif&f=1&nofb=1" width="300"/></a>
+<a href="#"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia0.giphy.com%2Fmedia%2FeeBETCk3Cr4Qm0iPvO%2Fgiphy.gif&f=1&nofb=1" width="300"/></a>
