@@ -1,0 +1,3 @@
+══╣ Possible private SSH keys were found!
+/etc/passbolt/gpg/serverkey_private.asc
+/etc/ImageMagick-6/mime.xml
